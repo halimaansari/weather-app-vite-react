@@ -1,5 +1,4 @@
 import React from "react";
-import "./Style.css";
 import "./Header.css"; // Ensure this file is in place
 
 const Header = ({ getCityName, userCityRef }) => {
